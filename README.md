@@ -1,4 +1,4 @@
-¡Hola! Soy [Esteban Pezzi] 👋\n
+¡Hola! Soy [Esteban Pezzi] 👋
 🎓 Ingeniero en Sistemas en formación
 💻 Desarrollador Full Stack con experiencia en React y Django
 🔧 También trabajo con Python y C
