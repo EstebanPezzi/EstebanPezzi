@@ -17,4 +17,4 @@ DevOps y CI/CD para despliegues automáticos
 [Pezzi Inmobiliaria]: Landing page para inmobiliaria (en progreso). (React)
 💬 Contacto:
 Email: estebanpezzi1@gmail.com
-[LinkedIn](https://www.linkedin.com/in/esteban-pezzi-999308204/) | [Instagram](https://www.instagram.con/epezzi1)
+[LinkedIn](https://www.linkedin.com/in/esteban-pezzi-999308204/) | [Instagram](https://www.instagram.com/epezzi1/)
