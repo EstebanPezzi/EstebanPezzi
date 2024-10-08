@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @EstebanPezzi
-- 👀 I’m interested in Front-End develop
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on any website project
-- 📫 How to reach me https://www.instagram.com/epezzi1/
+¡Hola! Soy [Esteban Pezzi] 👋
+🎓 Ingeniero en Sistemas en formación
+💻 Desarrollador Full Stack con experiencia en React y Django
+🔧 También trabajo con Python y C
+🚀 Apasionado por crear aplicaciones escalables y eficientes
 
-<!---
-EstebanPezzi/EstebanPezzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Tech Stack:
+Frontend: React, JavaScript, HTML, CSS
+Backend: Django, Python, API REST
+Bases de Datos: MySQL, PostgreSQL, SQLite
+Lenguajes: Python, C, JavaScript
+📚 Actualmente estoy aprendiendo:
+Optimización y escalabilidad de aplicaciones web
+DevOps y CI/CD para despliegues automáticos
+💡 Proyectos destacados:
+[Neumaticos 24/7]: Sistema de gestion integral para empresa de venta de neumaticos. (React, Django, MySQL)
+[Pezzi Inmobiliaria]: Landing page para inmobiliaria (en progreso). (React)
+💬 Contacto:
+Email: estebanpezzi1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/esteban-pezzi-999308204/) | [Instagram](https://www.instagram.con/epezzi1)
