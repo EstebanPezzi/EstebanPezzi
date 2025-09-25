@@ -6,7 +6,7 @@
 
 🚀 Tech Stack:
 Frontend: React, JavaScript, HTML, CSS
-Backend: Django, Python, API REST
+Backend: Django, Nodejs
 Bases de Datos: MySQL, PostgreSQL, SQLite
 Lenguajes: Python, C, JavaScript
 📚 Actualmente estoy aprendiendo:
